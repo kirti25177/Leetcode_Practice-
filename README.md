@@ -30,11 +30,13 @@
 | [0069-sqrtx](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0507-perfect-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
@@ -48,6 +50,7 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
