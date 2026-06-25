@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0258-add-digits) |
+| [0507-perfect-number](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0507-perfect-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
