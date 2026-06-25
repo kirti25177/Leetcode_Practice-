@@ -27,9 +27,18 @@
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0258-add-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
