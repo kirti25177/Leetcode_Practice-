@@ -27,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0507-perfect-number) |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0326-power-of-three) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
