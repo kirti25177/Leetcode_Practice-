@@ -37,6 +37,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -61,6 +62,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0283-move-zeroes) |
 ## Two Pointers
