@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0342-power-of-four) |
@@ -65,12 +66,14 @@
 | [0075-sort-colors](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
