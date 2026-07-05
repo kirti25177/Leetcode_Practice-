@@ -62,12 +62,18 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0283-move-zeroes) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
