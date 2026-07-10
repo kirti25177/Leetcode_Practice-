@@ -59,12 +59,14 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0704-binary-search) |
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
