@@ -67,6 +67,7 @@
 | [0162-find-peak-element](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0875-koko-eating-bananas) |
 ## Array
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0283-move-zeroes](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0875-koko-eating-bananas) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kirti25177/Leetcode_Practice-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
