@@ -88,6 +88,7 @@
 | [0485-max-consecutive-ones](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0912-sort-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kirti25177/Leetcode_Practice-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -102,6 +103,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,8 +112,29 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
