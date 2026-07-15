@@ -36,6 +36,7 @@
 | [0371-sum-of-two-integers](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0507-perfect-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kirti25177/Leetcode_Practice-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kirti25177/Leetcode_Practice-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
