@@ -73,6 +73,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Array
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0704-binary-search](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0912-sort-an-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kirti25177/Leetcode_Practice-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
