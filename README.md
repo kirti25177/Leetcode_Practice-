@@ -76,6 +76,7 @@
 | [0704-binary-search](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kirti25177/Leetcode_Practice-/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Array
 |  |
@@ -96,6 +97,7 @@
 | [0875-koko-eating-bananas](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0912-sort-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kirti25177/Leetcode_Practice-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kirti25177/Leetcode_Practice-/tree/master/2226-maximum-candies-allocated-to-k-children) |
