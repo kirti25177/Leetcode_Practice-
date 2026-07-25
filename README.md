@@ -39,6 +39,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kirti25177/Leetcode_Practice-/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/kirti25177/Leetcode_Practice-/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kirti25177/Leetcode_Practice-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -125,6 +126,7 @@
 | [0075-sort-colors](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0912-sort-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/kirti25177/Leetcode_Practice-/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
 | ------- |
