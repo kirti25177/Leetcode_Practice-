@@ -1,14 +1,1 @@
-# ⏱️ Time and Space Complexity
-## What is Time Complexity?
-Time Complexity measures how the running time of an algorithm grows as the input size (`n`) increases.
-It helps us compare the efficiency of different algorithms.
-### Common Time Complexities
-| Complexity | Name | Example |
-|------------|------|---------|
-| `O(1)` | Constant | Accessing an array element |
-| `O(log n)` | Logarithmic | Binary Search |
-| `O(n)` | Linear | Traversing an array |
-| `O(n log n)` | Linearithmic | Merge Sort |
-| `O(n²)` | Quadratic | Bubble Sort |
-| `O(2ⁿ)` | Exponential | Recursive Fibonacci |
-| `O(n!)` | Factorial | Brute Force Permutations |
+
