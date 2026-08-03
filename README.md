@@ -173,4 +173,12 @@
 |  |
 | ------- |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/kirti25177/Leetcode_Practice-/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
