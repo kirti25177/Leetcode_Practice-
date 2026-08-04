@@ -181,4 +181,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
