@@ -11,23 +11,12 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        //firstly find the length of LL
-        int count=0;
-        ListNode* temp=head;
-        while(temp!=NULL){
-            count++;
-            temp=temp->next;
+        ListNode* slow=head;
+        ListNode* Fast=head;
+        while(Fast!=NULL && Fast->next!=NULL){
+            slow=slow->next;
+            Fast=Fast->next->next;
         }
-        int midNode=(count/2)+1;
-        //
-        temp=head;
-        while(temp!=NULL){
-            midNode=midNode-1;
-            if(midNode==0){
-                break;
-            }
-            temp=temp->next;
-        }
-        return temp;
+        return slow;
     }
 };
