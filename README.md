@@ -36,6 +36,7 @@
 | [0342-power-of-four](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0507-perfect-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kirti25177/Leetcode_Practice-/tree/master/3513-number-of-unique-xor-triplets-i) |
