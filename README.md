@@ -118,6 +118,7 @@
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/kirti25177/Leetcode_Practice-/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kirti25177/Leetcode_Practice-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kirti25177/Leetcode_Practice-/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [3467-transform-array-by-parity](https://github.com/kirti25177/Leetcode_Practice-/tree/master/3467-transform-array-by-parity) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kirti25177/Leetcode_Practice-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/kirti25177/Leetcode_Practice-/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -141,6 +142,7 @@
 | [0169-majority-element](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3467-transform-array-by-parity](https://github.com/kirti25177/Leetcode_Practice-/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/kirti25177/Leetcode_Practice-/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/kirti25177/Leetcode_Practice-/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -157,6 +159,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0169-majority-element) |
+| [3467-transform-array-by-parity](https://github.com/kirti25177/Leetcode_Practice-/tree/master/3467-transform-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
