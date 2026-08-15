@@ -27,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0069-sqrtx) |
@@ -66,6 +67,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0342-power-of-four) |
@@ -190,6 +192,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
