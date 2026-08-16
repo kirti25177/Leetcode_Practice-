@@ -38,6 +38,7 @@
 | [0342-power-of-four](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0507-perfect-number) |
+| [0877-stone-game](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -108,6 +109,7 @@
 | [0485-max-consecutive-ones](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -201,4 +203,20 @@
 | [0328-odd-even-linked-list](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kirti25177/Leetcode_Practice-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
