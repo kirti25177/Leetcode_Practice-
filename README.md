@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0342-power-of-four) |
@@ -205,6 +206,7 @@
 | [0002-add-two-numbers](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0876-middle-of-the-linked-list) |
