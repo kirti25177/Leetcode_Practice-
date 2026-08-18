@@ -111,6 +111,7 @@
 | [0704-binary-search](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -136,6 +137,7 @@
 | [0189-rotate-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0905-sort-array-by-parity) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kirti25177/Leetcode_Practice-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kirti25177/Leetcode_Practice-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -145,6 +147,7 @@
 | [0016-3sum-closest](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0169-majority-element) |
+| [0905-sort-array-by-parity](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3467-transform-array-by-parity](https://github.com/kirti25177/Leetcode_Practice-/tree/master/3467-transform-array-by-parity) |
