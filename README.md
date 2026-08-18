@@ -240,4 +240,9 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
