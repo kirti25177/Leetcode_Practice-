@@ -115,6 +115,7 @@
 | [0912-sort-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1539-kth-missing-positive-number) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -245,4 +246,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0796-rotate-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
