@@ -115,6 +115,7 @@
 | [0877-stone-game](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1480-running-sum-of-1d-array) |
@@ -143,6 +144,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kirti25177/Leetcode_Practice-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kirti25177/Leetcode_Practice-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -155,6 +157,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3467-transform-array-by-parity](https://github.com/kirti25177/Leetcode_Practice-/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/kirti25177/Leetcode_Practice-/tree/master/3536-maximum-product-of-two-digits) |
