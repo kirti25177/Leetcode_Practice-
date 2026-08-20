@@ -83,6 +83,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -107,6 +108,7 @@
 | [0169-majority-element](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0875-koko-eating-bananas) |
@@ -138,6 +140,7 @@
 | [0189-rotate-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0905-sort-array-by-parity) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kirti25177/Leetcode_Practice-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -149,6 +152,7 @@
 | [0016-3sum-closest](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -161,6 +165,7 @@
 | [0141-linked-list-cycle](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0349-intersection-of-two-arrays) |
 | [3731-find-missing-elements](https://github.com/kirti25177/Leetcode_Practice-/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
