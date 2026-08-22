@@ -99,6 +99,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0033-search-in-rotated-sorted-array) |
@@ -172,6 +173,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0169-majority-element) |
