@@ -144,6 +144,7 @@
 | [0015-3sum](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -262,6 +263,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0796-rotate-string) |
 ## String Matching
