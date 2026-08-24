@@ -96,6 +96,7 @@
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/kirti25177/Leetcode_Practice-/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kirti25177/Leetcode_Practice-/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kirti25177/Leetcode_Practice-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Array
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/kirti25177/Leetcode_Practice-/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kirti25177/Leetcode_Practice-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kirti25177/Leetcode_Practice-/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kirti25177/Leetcode_Practice-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/kirti25177/Leetcode_Practice-/tree/master/3467-transform-array-by-parity) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kirti25177/Leetcode_Practice-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/kirti25177/Leetcode_Practice-/tree/master/3731-find-missing-elements) |
@@ -154,6 +156,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kirti25177/Leetcode_Practice-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kirti25177/Leetcode_Practice-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kirti25177/Leetcode_Practice-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -167,6 +170,7 @@
 | [0912-sort-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kirti25177/Leetcode_Practice-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/kirti25177/Leetcode_Practice-/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/kirti25177/Leetcode_Practice-/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/kirti25177/Leetcode_Practice-/tree/master/3731-find-missing-elements) |
