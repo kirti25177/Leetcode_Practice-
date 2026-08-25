@@ -280,4 +280,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1480-running-sum-of-1d-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
