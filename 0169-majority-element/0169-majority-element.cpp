@@ -1,21 +1,18 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        //Using Optimal Solution (Moree's Voting Algorithm)
         int n=nums.size();
-        int count=0;
-        int element;
-        for(int i=0;i<n;i++){
-            if(count==0){
-                count=1;
-                element=nums[i];
+        for(int i=0;i<nums.size();i++){
+            int count=1;
+            for(int j=i+1;j<nums.size();j++){
+                if(nums[i]==nums[j]){
+                    count++;
+                }
             }
-            else if(nums[i]==element){
-                count++;
-            }
-            else{
-                count--;
-            }
-        } return element;
+            if(count>n/2){
+            return nums[i];
+        }
+        }
+        return {};
     }
 };
