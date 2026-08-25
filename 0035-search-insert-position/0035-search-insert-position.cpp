@@ -1,10 +1,9 @@
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
-        int n=nums.size();
         int low=0;
-        int ans=n;
         int high=nums.size()-1;
+        int ans=nums.size();
         while(low<=high){
             int mid=low+(high-low)/2;
             if(nums[mid]>=target){
