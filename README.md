@@ -104,6 +104,7 @@
 | [0015-3sum](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -147,6 +148,7 @@
 | [0015-3sum](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0088-merge-sorted-array) |
