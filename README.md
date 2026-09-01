@@ -176,6 +176,7 @@
 | [0075-sort-colors](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0905-sort-array-by-parity) |
@@ -193,6 +194,7 @@
 | [0141-linked-list-cycle](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0349-intersection-of-two-arrays) |
 | [3731-find-missing-elements](https://github.com/kirti25177/Leetcode_Practice-/tree/master/3731-find-missing-elements) |
@@ -276,6 +278,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0796-rotate-string) |
