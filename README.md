@@ -39,6 +39,7 @@
 | [0342-power-of-four](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kirti25177/Leetcode_Practice-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -121,6 +122,7 @@
 | [0283-move-zeroes](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0877-stone-game) |
@@ -179,6 +181,7 @@
 | [0242-valid-anagram](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0977-squares-of-a-sorted-array) |
