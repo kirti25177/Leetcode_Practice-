@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        //This is brute force solution which takes time complexity of O(n^3)
+        //This is brute force solution which takes time complexity of O(n^2)
         int n=nums.size();
         int maxi=INT_MIN;
         for(int i=0;i<n;i++){
