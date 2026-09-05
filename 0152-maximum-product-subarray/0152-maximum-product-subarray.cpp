@@ -6,11 +6,11 @@ public:
         // Firstly there can be these cases like all positive numbers in array 
         // or there can be even negative and other number positive
         // or there can be zeroes as well
+        int ans=INT_MIN;
+        int n=nums.size();
         int prefix=1;
         int suffix=1;
-        int n=nums.size();
-        int ans=INT_MIN;
-        for(int i=0;i<nums.size();i++){
+        for(int i=0;i<n;i++){
             if(prefix==0){
                 prefix=1;
             }
