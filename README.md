@@ -314,4 +314,16 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
