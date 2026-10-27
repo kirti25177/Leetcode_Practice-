@@ -128,6 +128,7 @@
 | [0283-move-zeroes](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0875-koko-eating-bananas) |
@@ -323,6 +324,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0232-implement-queue-using-stacks) |
+| [0503-next-greater-element-ii](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -369,4 +371,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0572-subtree-of-another-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
