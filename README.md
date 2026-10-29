@@ -128,6 +128,7 @@
 | [0283-move-zeroes](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0704-binary-search) |
@@ -209,6 +210,7 @@
 | [0242-valid-anagram](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0496-next-greater-element-i) |
 | [3731-find-missing-elements](https://github.com/kirti25177/Leetcode_Practice-/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -324,6 +326,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
@@ -377,5 +380,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
