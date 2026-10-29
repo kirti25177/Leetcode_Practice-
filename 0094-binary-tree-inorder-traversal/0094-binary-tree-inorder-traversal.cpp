@@ -16,8 +16,8 @@ public:
         if(root==nullptr){
             return ans;
         }
-        vector<int> left=inorderTraversal(root->left);
-        for(int x: left){
+        vector<int>left=inorderTraversal(root->left);
+        for(int x:left){
             ans.push_back(x);
         }
         ans.push_back(root->val);
