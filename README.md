@@ -356,6 +356,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -377,6 +378,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -401,4 +403,5 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
