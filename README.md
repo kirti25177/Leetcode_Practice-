@@ -132,6 +132,7 @@
 | [0485-max-consecutive-ones](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0503-next-greater-element-ii) |
+| [0575-distribute-candies](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0875-koko-eating-bananas) |
@@ -214,6 +215,7 @@
 | [0268-missing-number](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/kirti25177/Leetcode_Practice-/tree/master/0575-distribute-candies) |
 | [3731-find-missing-elements](https://github.com/kirti25177/Leetcode_Practice-/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
