@@ -10,22 +10,40 @@
  */
 class Solution {
 public:
-    bool isPalindrome(ListNode* head) {
-       //Starting with the brute force solution
-       ListNode* temp=head;
-       stack<int>st;
-       while(temp!=NULL){
-            st.push(temp->val);
-            temp=temp->next;
-       } 
-       temp=head;
-       while(temp!=NULL){
-        if(temp->val!=st.top()){
-            return false;
+    ListNode* reverse(ListNode* head){
+        ListNode* current=head;
+        ListNode* prev=NULL;
+        while(current!=NULL){
+            ListNode* temp=current->next;
+            current->next=prev;
+            prev=current;
+            current=temp;
         }
-        st.pop();
-        temp=temp->next;
-       }
-       return true;
+        return prev;
+    }
+    bool isPalindrome(ListNode* head) {
+        //Optimal solution
+        if(head==NULL || head->next==NULL){
+            return head;
+        }
+        //Middle of LL then reverse the second half and then compare it
+        ListNode* slow=head;
+        ListNode* fast=head->next;
+        while(fast!=NULL && fast->next!=NULL){
+            slow=slow->next;
+            fast=fast->next->next;
+        }
+        //second half
+        ListNode* first=head;
+        ListNode* second=reverse(slow->next);
+        while(second!=NULL){
+            if(first->val!=second->val){
+                return false;
+            }
+            first=first->next;
+            second=second->next;
+        }
+        slow->next=reverse(slow->next);
+        return true;
     }
 };
